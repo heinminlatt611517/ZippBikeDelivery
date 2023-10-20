@@ -1,0 +1,10 @@
+export {default as SignIn} from './auth/SignIn';
+export {default as Home} from './dashboard/home/Home';
+export {default as Profile} from './dashboard/profile/Profile';
+export {default as Message} from './dashboard/message/Message';
+export {default as Notification} from './dashboard/notification/Notification';
+export {default as NewOrder} from './dashboard/home/newDelivers/NewOrder';
+export {default as Accepted} from './dashboard/home/newDelivers/Accepted';
+export {default as NewDeliver} from './dashboard/home/newDelivers/NewDeliver';
+export {default as Dispatched} from './dashboard/home/newDelivers/Dispatched';
+export {default as CompletedDetails} from './dashboard/home/completed//CompletedDetails';

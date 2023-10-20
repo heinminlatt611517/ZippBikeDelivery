@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>677330034577-nnnv9thbkgc98uksvktppo8ieqach7u9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.677330034577-nnnv9thbkgc98uksvktppo8ieqach7u9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>677330034577-lga559r5o8nv109jkgeh9cstd9tg3ajv.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBUfky2d9GR1O90gEU-Vh5Ho96EfgdCatE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>677330034577</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.zippBike</string>
+	<key>PROJECT_ID</key>
+	<string>zippbike-c7608</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zippbike-c7608.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:677330034577:ios:2cb12bacf9a21ec1c64430</string>
+</dict>
+</plist>

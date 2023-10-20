@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "677330034577",
+    "project_id": "zippbike-c7608",
+    "storage_bucket": "zippbike-c7608.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677330034577:android:848c1e9f156d964bc64430",
+        "android_client_info": {
+          "package_name": "com.zippbike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677330034577-lga559r5o8nv109jkgeh9cstd9tg3ajv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zippbike",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "677330034577-sidl2e1r5q7hbfa2che9kglmeg7gitsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDfHJ1rtyu0BtB8labAa3KDAvIsOCvwOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677330034577-sidl2e1r5q7hbfa2che9kglmeg7gitsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
